@@ -2,8 +2,8 @@
 // 在设置---触发事件 里设置访问频率，例如2分钟，保存即可，可开启日志查看，检查是否运行
 
 // Telegram配置(不需要可忽略)
-const TG_ID = '';           // 替换为你的Telegram用户chat_id
-const TG_TOKEN = '';        // 替换为你的Telegram Bot的token
+const TG_ID = '6595585066';           // 替换为你的Telegram用户chat_id
+const TG_TOKEN = '7745932363:AAEPeedprh7X5Ra5g7ngBh01-n5eMZ-3TgI';        // 替换为你的Telegram Bot的token
 
 // 24小时不间断访问的URL数组,可添加环境变量，环境变量名格式：URL_1 URL_2 URL_3...
 const defaultUrls = [            
